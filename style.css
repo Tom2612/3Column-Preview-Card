@@ -40,13 +40,14 @@ body{
 h1{
     font-family: "Big Shoulders Display";
     font-weight: 700;
+    font-size: 2.5rem;
     color: hsl(0, 0%, 95%);
     text-transform: uppercase;
     margin-bottom: 1.5rem;
 }
 p{
     line-height: 1.5rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 5rem;
 }
 img{
     margin-bottom: 1.5rem;
